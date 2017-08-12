@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/rrdelaney/material-resume",
   "devDependencies": {
-    "buble": "^0.14.0",
+    "buble": "^0.15.2",
     "cssmin": "^0.4.3",
-    "standard": "^8.6.0",
-    "uglify-js": "^2.7.3"
+    "standard": "^10.0.3",
+    "uglify-js": "^3.0.27"
   },
   "standard": {
     "global": [
